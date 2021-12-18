@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-😎I'm a Microsoft Learn Student Ambassador 
+😎I'm a Microsoft Learn Student Ambassador &ensp; &ensp;<img src="0001-removebg-preview.png" width="80" alt="Microsoft Learn Student Ambassador logo"/> 
 
 🖌️I'm a UI/UX designer       
 
@@ -31,4 +31,4 @@
 
 ![sanyukta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyukta111&show_icons=true&theme=radical)
 
- <a href="https://app.daily.dev/sanyukta"><img src="https://api.daily.dev/devcards/4106a14472aa48d6bb38f769c5adf64e.png?r=4fu" width="400" alt="Sanyukta Kamble's Dev Card"/></a>
+
